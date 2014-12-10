@@ -1,0 +1,4 @@
+-rw-r--r--@ 1 boch1976  staff  139590 Dec  3 17:10 /Users/boch1976/Desktop/NSF_CHN/Ecology/ReefCheck/Data_Raw/Magdalena_fishesraw_2014.csv
+-rw-r--r--@ 1 boch1976  staff  261784 Dec  3 17:09 /Users/boch1976/Desktop/NSF_CHN/Ecology/ReefCheck/Data_Raw/Magdalena_fishesraw_2011.csv
+-rw-r--r--@ 1 boch1976  staff  174950 Dec  3 17:09 /Users/boch1976/Desktop/NSF_CHN/Ecology/ReefCheck/Data_Raw/Magdalena_fishesraw_2010.csv
+-rw-r--r--@ 1 boch1976  staff  275808 Aug 29 16:04 /Users/boch1976/Desktop/NSF_CHN/Ecology/ReefCheck/Data_Raw/Magdalena_fishesraw_2012.csv

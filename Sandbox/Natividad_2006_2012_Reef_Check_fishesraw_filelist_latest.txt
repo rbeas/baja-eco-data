@@ -1,0 +1,1 @@
+-rw-r--r--@ 1 boch1976  staff  6980435 May 28 16:56 /Users/boch1976/Desktop/Baja_Reef_Check_Data_Raw/Natividad_fishesraw_2006_2012.csv
