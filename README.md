@@ -11,7 +11,7 @@ There are several sections of this project
 3.Scripts for analyzing the data
 4.Relevant results
 
-# This folders are basically organized the following way
+# These folders are basically organized the following way
 Eg. Reef Check (parent folder)
 Data_Raw (subfolder)
 Data_Clean (subfolder)
